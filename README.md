@@ -7,9 +7,9 @@ Good ideas are always crazy until they're not. ~ <b>Elon Musk</b> 🚀
 
 ## Stats:
 
-![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fervailanti&theme=vue&count_private=true&show_icons=true&hide=issues,contribs)
+![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fervailanti&theme=dracula&count_private=true&show_icons=true&hide=issues,contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fervailanti&theme=vue&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fervailanti&theme=dracula&layout=compact)
 
 ## Social:
 
