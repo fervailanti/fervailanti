@@ -13,10 +13,8 @@ Good ideas are always crazy until they're not. ~ <b>Elon Musk</b> 🚀
 
 ## Social:
 
+[<img width="48" float="left" src="https://image.flaticon.com/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/fernando-vailanti-559b96164/)
+<img width="18" float="left" src="https://www.transparenttextures.com/patterns/asfalt-light.png"/>
 [<img width="48" float="left" src="https://image.flaticon.com/icons/svg/725/725315.svg"/>](https://medium.com/@fernandovailanti)
 <img width="18" float="left" src="https://www.transparenttextures.com/patterns/asfalt-light.png"/>
 [<img width="48" float="left" src="https://image.flaticon.com/icons/svg/601/601243.svg"/>](mailto:fernandovailanti17@gmail.com)
-<img width="18" float="left" src="https://www.transparenttextures.com/patterns/asfalt-light.png"/>
-[<img width="48" float="left" src="https://image.flaticon.com/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/fernando-vailanti-559b96164/)
-<img width="18" float="left" src="https://www.transparenttextures.com/patterns/asfalt-light.png"/>
-[<img width="48" float="left" src="https://image.flaticon.com/icons/svg/725/725278.svg"/>](https://www.instagram.com/fernandovailanti/)
