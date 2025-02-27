@@ -1,8 +1,6 @@
 
 ### Aloha! ⚡️
 
-_Good ideas are always crazy until they're not._ ~ __Elon Musk__ 🚀
-
 <img height="200" src="https://user-images.githubusercontent.com/54537095/162708622-e09b8369-d798-4fb3-9d1a-d6529e0b45c6.gif"/>
 
 ## Stats
